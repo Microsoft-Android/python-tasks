@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-tasks/#history
 
+## [2.3.0](https://www.github.com/googleapis/python-tasks/compare/v2.2.0...v2.3.0) (2021-04-13)
+
+
+### Features
+
+* add `from_service_account_info` ([#80](https://www.github.com/googleapis/python-tasks/issues/80)) ([2498225](https://www.github.com/googleapis/python-tasks/commit/2498225112ddb4b112b387dec71631c29a6db71e))
+
+
+### Bug Fixes
+
+* use correct retry deadlines ([2498225](https://www.github.com/googleapis/python-tasks/commit/2498225112ddb4b112b387dec71631c29a6db71e))
+
 ## [2.2.0](https://www.github.com/googleapis/python-tasks/compare/v2.1.0...v2.2.0) (2021-02-24)
 
 
